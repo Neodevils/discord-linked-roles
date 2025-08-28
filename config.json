@@ -1,0 +1,8 @@
+{
+	"token": "",
+	"clientId": "",
+	"clientSecret": "",
+	"cookieSecret": "",
+	"redirectUri": "http://localhost:3000/discord-oauth-callback",
+	"port": 3000
+}
