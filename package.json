@@ -1,0 +1,27 @@
+{
+	"name": "discord-linked-roles",
+	"version": "1.0.0",
+	"description": "A JSON database based template for linked role connection via Discord.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js",
+		"dev": "node --watch server.js",
+		"register": "node register.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Neodevils/discord-linked-roles.git"
+	},
+	"keywords": [],
+	"author": "Neodevils",
+	"license": "MIT",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/Neodevils/discord-linked-roles/issues"
+	},
+	"homepage": "https://github.com/Neodevils/discord-linked-roles#readme",
+	"dependencies": {
+		"cookie-parser": "^1.4.7",
+		"express": "^5.1.0"
+	}
+}
